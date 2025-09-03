@@ -21,12 +21,3 @@ INSERT INTO waiting_member (id, created_at, member_id, waiting_line_id)
 VALUES (1, CURRENT_TIMESTAMP, 4, 1),
        (2, CURRENT_TIMESTAMP, 5, 1),
        (3, CURRENT_TIMESTAMP, 6, 2);
-
-ALTER TABLE member
-    ALTER COLUMN id RESTART WITH 8;
-ALTER TABLE store
-    ALTER COLUMN id RESTART WITH 4;
-ALTER TABLE waiting_line
-    ALTER COLUMN id RESTART WITH 4;
-ALTER TABLE waiting_member
-    ALTER COLUMN id RESTART WITH 4;
