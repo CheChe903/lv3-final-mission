@@ -13,3 +13,7 @@
 
 - [x] 가게 주인은 식당을 하나 등록할 수 있다.
 - [x] 가게 주인은 식당 상태를 변경할 수 있다.
+
+
+![Frame 190 (1)](https://github.com/user-attachments/assets/c045e7ff-96b4-4c14-83bc-706112c1e871)
+![Frame 115 (1)](https://github.com/user-attachments/assets/e096b351-c8c1-494e-abad-5c9881af7ef5)
